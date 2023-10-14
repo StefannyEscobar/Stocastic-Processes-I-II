@@ -27,7 +27,7 @@ Para ejecutar el código en el notebook, necesitarás:
 - [Sitio web oficial de R](https://www.r-project.org/): Obtén más información sobre el lenguaje de programación R.
 - [Documentación de Jupyter Notebook](https://jupyter.org/documentation): Aprende a utilizar Jupyter Notebook.
 
-¡Esperamos que encuentres estos ejemplos útiles y educativos! Si tienes alguna pregunta o comentario, no dudes en contactarnos.
+¡Esperamos que encuentres estos ejemplos útiles y educativos! Si tienes alguna pregunta o comentario, no dudes en contactarme.
 
 ---
 
