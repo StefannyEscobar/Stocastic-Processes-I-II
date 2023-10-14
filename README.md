@@ -5,7 +5,7 @@ Este repositorio contiene ejemplos y código relacionados con el algoritmo Metro
 
 ## Contenido
 
-- **[MH-Sampling.ipynb](MH-Sampling.ipynb)**: Un archivo Jupyter Notebook que incluye ejemplos de aplicación del algoritmo Metropolis-Hastings en R.
+- **[MH_Sampling.ipynb](MH_Sampling.ipynb)**: Un archivo Jupyter Notebook que incluye ejemplos de aplicación del algoritmo Metropolis-Hastings en R.
 
 ## Instrucciones de Uso
 
