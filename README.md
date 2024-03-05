@@ -1,4 +1,8 @@
-# Markov-Chain-MH
+# El repositorio incluye:
+
+Markov-Chain-MH y Movimiento brownianos
+
+# Para el primero:
 # Ejemplos del Algoritmo Metropolis-Hastings en R
 
 Este repositorio contiene ejemplos y código relacionados con el algoritmo Metropolis-Hastings (MH) en el lenguaje de programación R. El objetivo de este repositorio es proporcionar ejemplos prácticos y guías de uso del algoritmo MH para el muestreo de distribuciones probabilísticas.
@@ -32,3 +36,9 @@ Para ejecutar el código en el notebook, necesitarás:
 ---
 
 **Nota**: Este repositorio es solo con fines educativos y de demostración. No se garantiza su exactitud o adecuación para ningún propósito específico.
+
+
+
+# Para el segundo
+
+Tener python 3, y las librerias
